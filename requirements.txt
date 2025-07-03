@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gradio
+pandas
+requests
+openai
+pytrends
+plotly
+python-dotenv
